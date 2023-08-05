@@ -1,4 +1,4 @@
-farom aiogram import Bot, Dispatcher, types
+from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
 TOKEN = "6426647294:AAGOJFgJRJ3I7IyTUa3MvVtvN35MWTmFOEw"
